@@ -3,7 +3,6 @@
 #include <Keypad.h>
 #include "Nave.h"
 #include "Clear.h"
-const int pasosPorRevolucion = 200;
 int JoystickX = 0, JoystickY = 0;
 TVout Tv;
 
