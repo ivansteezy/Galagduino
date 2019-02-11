@@ -44,4 +44,4 @@ Y la documentación de funciones:
 
 https://code.google.com/archive/p/arduino-tvout/wikis
 
-###### Shoutouts al profe Toñito por dejarnos esta práctica <3
+###### Shoutouts al profe Toñito por dejarnos esta práctica para la materia de Sistemas Embebidos ll <3
